@@ -1,0 +1,39 @@
+#board {
+    background-color: lightgray;
+    height: 512px;
+    width: 608px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  .box {
+    height: 32px;
+    width: 32px;
+    float: left;
+  }
+
+  .w {
+    
+    background-image: url(image/5.png);
+
+  }
+
+  .g {
+    background-image: url(image/6.png);
+      }
+
+ .c{
+    background-image: url(image/3.png);
+  }
+
+  
+  .cg{
+    background-image: url(image/4.png);
+  }
+
+.p {
+  background-image: url(image/1.png);
+    }
+
+
